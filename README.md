@@ -33,10 +33,12 @@ My undergraduate degree in Computer Science allowed me to participate in a numbe
 - [CS 2110](https://github.com/andygarcha/CS2110) - Computer Organization & Programming (Summer 2024)
 - [CS 2200](https://github.com/andygarcha/CS2200) - Systems & Networks (Fall 2024)
 - [CS 2340](https://github.com/andygarcha/CS2340) - Objects & Design (Fall 2024)
-- CS 3210 - Design of Operating Systems (Spring 2026)
-- CS 3251 - Computer Networking I (Fall 2025)
+- [CS 3251](https://github.com/andygarcha/CS3251) - Computer Networking I (Fall 2025)
 - CS 3510 - Design & Analysis of Algorithms (Spring 2025)
-- CS 3600 - Intro to AI (Spring 2025)
+- [CS 3600](https://github.com/andygarcha/CS3600) - Intro to AI (Spring 2025)
 - CS 3751 - Intro to UI Design (Fall 2025)
-- CS 4240 - Compilers & Interpreters (Spring 2026)
 - CS 4400 - Intro to Database Systems (Spring 2025)
+
+### Future Courses
+- CS 3210 - Design of Operating Systems (Spring 2026)
+- CS 4240 - Compilers & Interpreters (Spring 2026)
