@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 Hi, and welcome to my GitHub portfolio! I'm Andy Garcha, a Computer Science student at Georgia Tech, specializing my degree in backend development and low-level programming.
 
-On my own, I've accumulated a love of software and web development, and have learned a lot about full-stack web dev. Please take a look at my projects!!
+On my own, I've accumulated a love of software and web development, as well as homelabbing. Please take a look at my projects!!
 
 # Projects
 - [CE Assistant](https://github.com/andygarcha/CE-Assistant-v2) and [its frontend webpage](https://github.com/andygarcha/ce-assistant-frontend) - A discord.py web application that monitors and reports updates to a website and allows its 1500 users to participate in random roll events.
