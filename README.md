@@ -38,6 +38,7 @@ My undergraduate degree in Computer Science allowed me to participate in a numbe
 - CS 3510 - Design & Analysis of Algorithms (Spring 2025)
 - [CS 3600](https://github.com/andygarcha/CS3600) - Intro to AI (Spring 2025)
 - CS 3751 - Intro to UI Design (Fall 2025)
+- CX 3803 - Capstone (Spring 2026). You can view the live product [here](https://cx-3803-mock.vercel.app)
 - CS 4240 - Compilers & Interpreters (Spring 2026)
 - CS 4400 - Intro to Database Systems (Spring 2025)
 
